@@ -16,7 +16,7 @@
 - `pip uninstall urllib3 ; pip install urllib3`
 - `git clone https://github.com/X3ROX-143/FB-AUTO-SHARE`
 - `cd FB-AUTO-SHARE`
-- `python AUTO-SHARE`
+- `python AUTO-SHARE.py`
 
 
 
